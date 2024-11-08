@@ -1,1 +1,2 @@
+-- https://t.me/SPscript1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SPHubReal/SP_Hub/refs/heads/main/BladeBall"))()
