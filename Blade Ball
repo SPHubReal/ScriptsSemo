@@ -1,2 +1,5 @@
--- https://t.me/SPscript1
+-- Telegram: https://t.me/SPscript1
+-- Discord: https://dsc.gg/SPscript1
+-- Executer: Semo
+-- شايفك ياض يا حرامي يالي بتسرق السكربت و بتنشرها في قناتك بدون حقوق يا خول يا معرص يابن شرموطه ( الكلام مو عليك اذا ما بتسرقه و تنشره في قناتك)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SPHubReal/SP_Hub/refs/heads/main/BladeBall"))()
