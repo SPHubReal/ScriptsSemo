@@ -1,2 +1,5 @@
--- https://t.me/SPscript1
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/redz9999"))()
+-- Telegram: https://t.me/SPscript1
+-- Discord: https://dsc.gg/SPscript1
+-- Executer: Semo
+-- DONT STEAL THIS SCRIPT AND PUPLISH IT IN UR SERVER DISCROD OR ANY UR OWNER CHANNEL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/redz9999"))(https://t.me/SPscript1)
