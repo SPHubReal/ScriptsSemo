@@ -2,4 +2,4 @@
 -- Discord: https://dsc.gg/SPscript1
 -- Executer: Semo
 -- DONT STEAL THIS SCRIPT AND PUPLISH IT IN UR SERVER DISCROD OR ANY UR OWNER CHANNEL
-loadstring(game:HttpGet("https://scriptblox.com/raw/OP-SCRIPT-+-AUTOFARM-and-MORE!_1079"))(https://t.me/SPscript1)
+loadstring(game:HttpGet("https://scriptblox.com/raw/OP-SCRIPT-+-AUTOFARM-and-MORE!_1079"))("https://t.me/SPscript1")
