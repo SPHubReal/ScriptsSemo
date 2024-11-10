@@ -1,0 +1,7 @@
+-- Telegram: https://t.me/SPscript1
+-- Discord: https://dsc.gg/SPscript1
+-- Executer: Semo
+-- DONT STEAL THIS SCRIPT AND PUPLISH IT IN UR SERVER DISCROD OR ANY UR OWNER CHANNEL
+game:HttpGet("https://getexploits.com/cexecution/767792090360074240")
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))("https://t.me/SPscript1")
